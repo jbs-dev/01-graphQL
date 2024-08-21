@@ -1,0 +1,7 @@
+
+Background Color: sky-blue #8ECAE6
+Text Color: prussian-blue #023047
+Button Background Color: selective-yellow #FFB703
+Input Border Color (Focus): blue-green #219EBC
+Error Message Color: ut-orange #FB8500
+Box Shadow Color: prussian-blue #023047
