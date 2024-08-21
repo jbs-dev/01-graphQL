@@ -3,7 +3,7 @@
 
 ## Description
 
-This project is a personal profile page built using the GraphQL query language. The profile page dynamically displays user-specific data retrieved from a GraphQL endpoint. It also features an interactive UI with statistical graphs generated using SVG.
+This project is a personal profile page built using the GraphQL query language. The profile page dynamically displays user-specific data retrieved from a GraphQL endpoint. It also features a UI with statistical graphs generated using SVG.
 
 ## Features
 
@@ -20,17 +20,7 @@ This project is a personal profile page built using the GraphQL query language. 
    cd graphql
    ```
 
-2. **Environment Setup**:
-   - In the root directory of the project, create a new file named `.env`.
-   - Open the `.env` file in your text editor and add the following environment variables:
-
-     ```env
-     GRAPHQL_ENDPOINT=https://learn.01founders.co/api/graphql-engine/v1/graphql
-     ```
-
-   - Save the `.env` file.
-
-3. **Run the Project**:
+2. **Run the Project**:
    - Open the project folder in your code editor.
    - Right-click on the `index.html` file.
    - Select "Open with Live Server" (this requires the Live Server extension in your code editor).
@@ -41,7 +31,7 @@ This project is a personal profile page built using the GraphQL query language. 
    - Log in using your 01-Founders credentials.
 
 2. **Explore Your Profile**:
-   - Once logged in, explore the profile page to view your data and interact with the statistical graphs.
+   - Once logged in, explore the profile page to view your data with the statistical graphs.
 
 ## Technologies Used
 
@@ -50,6 +40,3 @@ This project is a personal profile page built using the GraphQL query language. 
 - **SVG for Graphs**
 - **JWT for Authentication**
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
